@@ -1,7 +1,7 @@
 {
   "serviceName": "Hotel Reservation Engine",
   "environment": "production",
-  "maxRooms": 250,
+  "maxRooms": 999,
   "currency": "TRY",
   "features": {
     "onlineBooking": true,
