@@ -1,0 +1,6 @@
+{
+  "serviceName": "Payment Gateway Service",
+  "timeoutMs": 3000,
+  "supportedGateways": ["iyzico", "stripe", "garanti"],
+  "maxRetryCount": 3
+}

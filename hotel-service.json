@@ -1,0 +1,11 @@
+{
+  "serviceName": "Hotel Reservation Engine",
+  "environment": "production",
+  "maxRooms": 250,
+  "currency": "TRY",
+  "features": {
+    "onlineBooking": true,
+    "loyaltyProgram": false,
+    "instantConfirmation": true
+  }
+}
